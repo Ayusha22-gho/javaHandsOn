@@ -5,6 +5,7 @@ public class Cube extends Shape implements Spatial
     private double length;
     private double width;
     private double height;
+    private double area;
     
 //    public Cube(double length, double width, double height){
 //        this.length = length;
